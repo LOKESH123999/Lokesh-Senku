@@ -82,9 +82,9 @@ I’m a passionate Computer Science student keen on developing innovative softwa
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn profile]
-- GitHub: [Your GitHub profile]
-- Email: [Your email address]
+- LinkedIn: https://www.linkedin.com/in/senkulokesh2004
+- GitHub: https://github.com/LOKESH123999/LOKESH123999
+- Email: lokeshsenku@gmail.com
 
 ---
 
