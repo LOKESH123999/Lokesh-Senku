@@ -1,5 +1,14 @@
 # Lokesh-Senku
 Hello Everyone Welcome To My Profile
+<!-- Stickers/Badges Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Passionate-Software%20Developer-orange" alt="Passionate Developer" />
+  <img src="https://img.shields.io/badge/Loves-Coding-blueviolet" alt="Loves Coding" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Tech-Explorer-9cf" alt="Tech Explorer" />
+  <img src="https://img.shields.io/github/followers/<your-github-username>?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
+</p>
+
 # Hi, I'm Senku Lokesh 👋
 
 ### Final-Year B.Tech Student | Computer Science Engineering (CSE)
