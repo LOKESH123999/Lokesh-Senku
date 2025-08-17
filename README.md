@@ -13,7 +13,8 @@ Hello Everyone Welcome To My Profile
 
 ### Final-Year B.Tech Student | Computer Science Engineering (CSE)
 
-- I’m a passionate Computer Science student keen on developing innovative software solutions and exploring new technologies. - My interests span **web development, machine learning, app development**, and collaborative tech projects.
+- I’m a passionate Computer Science student keen on developing innovative software solutions and exploring new technologies.
+- My interests span **web development, machine learning, app development**, and collaborative tech projects.
 
 ---
 
